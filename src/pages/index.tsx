@@ -4,7 +4,6 @@ import React, {
   useEffect,
   useState,
 } from "react";
-import PhotoContainer from "../components/shared/PhotoContainer";
 import Link from "next/link";
 
 const HomePage = (): JSX.Element => {
